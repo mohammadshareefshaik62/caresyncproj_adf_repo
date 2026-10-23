@@ -14,7 +14,7 @@
 					"referenceName": "ls_AzureKeyVault",
 					"type": "LinkedServiceReference"
 				},
-				"secretName": "neonpostgrescaresyncdbpasswod"
+				"secretName": "neonpostgrescaresyncdbpassword"
 			},
 			"sslMode": 2,
 			"authenticationType": "Basic"
