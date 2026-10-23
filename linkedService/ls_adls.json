@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "AzureBlobFS",
 		"typeProperties": {
-			"url": "https://caresncprojstorage.dfs.core.windows.net/"
+			"url": "https://caresyncprojstorage.dfs.core.windows.net/"
 		}
 	}
 }
