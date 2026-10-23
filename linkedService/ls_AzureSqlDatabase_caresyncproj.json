@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "AzureSqlDatabase",
 		"typeProperties": {
-			"server": "caresync-server-free.database.windows.net",
+			"server": "caresyncprojserver.database.windows.net",
 			"database": "caresync-sql-db",
 			"encrypt": "mandatory",
 			"trustServerCertificate": false,
