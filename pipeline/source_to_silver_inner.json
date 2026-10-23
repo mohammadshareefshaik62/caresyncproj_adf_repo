@@ -49,7 +49,7 @@
 				}
 			},
 			{
-				"name": "source to landing ingestio",
+				"name": "source to landing ingestion",
 				"type": "Copy",
 				"dependsOn": [
 					{
